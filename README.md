@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Saksham Singh! I am a budding developer and a Blockchain enthusiast. Here you will find some of the projects I am working on. I am currently learning DSA. 
+
 <!--
 **Saksham294/Saksham294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
