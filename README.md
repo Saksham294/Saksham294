@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
-<h3 align="left">Connect with me:</h3>
+I am a budding developer and Blockchain enthusiast. Here you can find some of the projects I have or am working on. I love to collaborate so feel free to connect. 
 <p align="left">
 </p>
 
