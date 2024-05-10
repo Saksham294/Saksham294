@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F77D00&width=435&lines=Namaste%F0%9F%91%8F+I'm+Saksham)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79D60&random=false&width=435&lines=Hi!+I+am+Saksham)](https://git.io/typing-svg)
 
 I'm Saksham Singh,a Full Stack Developer. I like to contribute to open source projects and upskill myself in the process. I love to collaborate, so feel free to connect with me on the links mentioned at the end. 
 
